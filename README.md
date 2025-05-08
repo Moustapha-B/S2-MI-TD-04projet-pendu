@@ -3,8 +3,4 @@ MITD04
 
 Moustapha BA, Birane DIALLO, Safouan BEN YOUSSEF, Boualem BENABDELMOUMENE
 
-Dans ce projet, on souhaite programmer le jeu du pendu. Il s’agit d’un jeu de soci´et´e o` u un mot
- est choisi au hasard et le joueur doit deviner `a chaque tour une des lettres qui composent ce mot.
- A Chaque fois qu’une lettre propos´ee ne figure pas dans le mot, une partie du dessin d’un pendu
- apparaˆ ıt. Si le pendu est enti`erement dessin´e avant que le mot ne soit devin´e, le joueur a perdu, sinon
- il sera nomm´e ”gagnant”.
+Le jeu du pendu consiste à deviner un mot caché en proposant des lettres, une par une. À chaque bonne lettre, elle est révélée dans le mot à sa ou ses positions. En revanche, à chaque mauvaise lettre, une partie du pendu est dessinée. Le joueur dispose d’un nombre limité d’erreurs (généralement 6). Il gagne s’il réussit à deviner toutes les lettres du mot avant que le dessin du pendu ne soit complet, et perd dans le cas contraire.
